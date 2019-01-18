@@ -15,6 +15,11 @@
 
     <name>bai-cheng-domain</name>
     <description></description>
-
+    <dependencies>
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+    </dependency>
+    </dependencies>
 
 </project>
